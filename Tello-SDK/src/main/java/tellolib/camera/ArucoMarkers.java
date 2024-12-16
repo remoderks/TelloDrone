@@ -1,6 +1,7 @@
 package tellolib.camera;
 
 import java.util.ArrayList;
+import java.util.Dictionary;
 import java.util.List;
 import java.util.Vector;
 import java.util.logging.Logger;
@@ -19,7 +20,7 @@ public class ArucoMarkers implements ArucoMarkersInterface
 {
 	private final Logger		logger = Logger.getLogger("Tello");
 
-	private Dictionary			dict;
+	private Dictionary dict;
 	private Mat					ids;
 	private List<Mat> 			corners;
 	

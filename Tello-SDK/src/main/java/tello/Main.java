@@ -36,7 +36,7 @@ public class Main
 	    
 	    // Create an instance of the drone program (class) we want to run.
 	    
-	    Demo1 demo = new Demo1();
+	    tello.Demo1 demo = new tello.Demo1();
 
 //		Demo2 demo = new Demo2();
 

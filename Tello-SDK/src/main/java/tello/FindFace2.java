@@ -6,7 +6,6 @@ import java.util.logging.Logger;
 import org.opencv.core.Rect;
 
 import com.studiohartman.jamepad.ControllerManager;
-import com.studiohartman.jamepad.ControllerState;
 
 import tellolib.camera.FaceDetection;
 import tellolib.camera.TelloCamera;
